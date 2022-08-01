@@ -1,0 +1,183 @@
+/* start navigation */
+.header_area .main-manu .navbar .navbar-brand {
+    padding: 0 2rem 0 5rem;
+}
+
+.header_area .main-manu .navbar {
+    padding: 1rem 10rem;
+}
+
+.header_area .main-manu .nav-item .nav-link {
+    font-family: cursive;
+    text-transform: uppercase;
+    font-weight: 1000;
+    padding: 1.7rem;
+    color: orangered;
+    opacity: 75%;
+
+}
+
+.header_area .main-manu .nav-item .active {
+    opacity: 100%;
+}
+/* end navigation */
+
+/* start main area */
+.main-area .main-home {
+    padding: 10rem 17rem 0 17rem;
+    font-family: cursive;
+    /* background-color: lightgoldenrodyellow; */
+    /* border: 2px solid green; */
+    height: 725px;
+    width: 100%;
+    background-color: #FCF8E8;
+}
+
+.main-area .main-home .row h1{
+    font-weight: 900;
+}
+
+
+.main-area .main-home marquee {
+    padding: 1rem 13rem 1rem 3rem;
+    color: rgb(253, 5, 5);
+    /* background-color: rgb(223, 218, 215); */
+    border-radius: 10px;
+    font-weight: 900;
+}
+
+.main-area .main-home .row img{
+    margin-left: 12rem;
+}
+/* end main area */
+
+
+
+/* start about area */
+.about-area {
+    background-color: #EAF6F6;
+    height: 725px;
+
+}
+
+.about-area p {
+    font-weight: 500;
+    color: orangered;
+    padding: 7rem 17rem 0 17rem;
+}
+
+.about-area .row {
+    padding: 2rem 17rem 7rem 17rem;
+}
+
+.about-area .row .align-items-start {
+    font-family: cursive;
+    font-size: 20px;
+    color: orangered;
+    font-weight: 700;
+}
+/* end about area */
+
+
+
+/* start education area */
+.about-education{
+    padding: 7rem 17rem 0 17rem;
+    font-weight: 500;
+    background-color: #F0EBE3;
+}
+
+.about-education marquee{
+    margin-top: 2rem;
+    margin-right: 47rem;
+    color: orangered;
+    font-size: 200px;
+    border-radius: 20px;
+    background-color: rgb(177, 177, 134);
+}
+
+.about-education .row p{
+    padding-top: 2rem;
+    font-family: cursive;
+    font-weight: 1000;
+    color: rgb(178, 188, 33);  
+}
+/* end education area */
+
+
+
+/* start project area */
+.project-area{
+    width: 100%;
+    height: 725px;
+    background-color: #D3EBCD;
+
+}
+
+.project-area h1{
+    padding: 5rem 17rem 0 17rem;
+}
+
+.project-area .p2{
+    padding: 1rem 17rem 0 17rem;
+    font-weight: 600;
+}
+
+.project-area .row{
+    padding: 0 17rem 4rem 17rem;
+}
+
+.project-area .row .col-lg-6{
+    padding: 1rem;
+}
+/* end project area */
+
+
+
+
+/* start contact area */
+.contact-area{
+    padding: 5rem 17rem 5rem 17rem;
+    height: 725px;
+    background-color: #F0EBE3;
+
+}
+
+
+.contact-area .row{
+    padding-top: 5rem;
+}
+
+.contact-area .row .col-lg-10 .btn{
+    margin: 3rem 14rem 0 14rem;
+}
+
+.contact-area .row .btn{
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+.contact-area .row .btn a{
+    text-decoration: none;
+}
+
+.contact-area .row img{
+    padding-bottom: 2rem;
+}
+/* end contact area */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
